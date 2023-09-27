@@ -1,0 +1,14 @@
+C:\Users\Kevin\source\repos\CalculaExpressaoMatematica\CalculaExpressaoMatematica\bin\Debug\net7.0\CalculaExpressaoMatematica.exe
+C:\Users\Kevin\source\repos\CalculaExpressaoMatematica\CalculaExpressaoMatematica\bin\Debug\net7.0\CalculaExpressaoMatematica.deps.json
+C:\Users\Kevin\source\repos\CalculaExpressaoMatematica\CalculaExpressaoMatematica\bin\Debug\net7.0\CalculaExpressaoMatematica.runtimeconfig.json
+C:\Users\Kevin\source\repos\CalculaExpressaoMatematica\CalculaExpressaoMatematica\bin\Debug\net7.0\CalculaExpressaoMatematica.dll
+C:\Users\Kevin\source\repos\CalculaExpressaoMatematica\CalculaExpressaoMatematica\bin\Debug\net7.0\CalculaExpressaoMatematica.pdb
+C:\Users\Kevin\source\repos\CalculaExpressaoMatematica\CalculaExpressaoMatematica\obj\Debug\net7.0\CalculaExpressaoMatematica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\source\repos\CalculaExpressaoMatematica\CalculaExpressaoMatematica\obj\Debug\net7.0\CalculaExpressaoMatematica.AssemblyInfoInputs.cache
+C:\Users\Kevin\source\repos\CalculaExpressaoMatematica\CalculaExpressaoMatematica\obj\Debug\net7.0\CalculaExpressaoMatematica.AssemblyInfo.cs
+C:\Users\Kevin\source\repos\CalculaExpressaoMatematica\CalculaExpressaoMatematica\obj\Debug\net7.0\CalculaExpressaoMatematica.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\CalculaExpressaoMatematica\CalculaExpressaoMatematica\obj\Debug\net7.0\CalculaExpressaoMatematica.dll
+C:\Users\Kevin\source\repos\CalculaExpressaoMatematica\CalculaExpressaoMatematica\obj\Debug\net7.0\refint\CalculaExpressaoMatematica.dll
+C:\Users\Kevin\source\repos\CalculaExpressaoMatematica\CalculaExpressaoMatematica\obj\Debug\net7.0\CalculaExpressaoMatematica.pdb
+C:\Users\Kevin\source\repos\CalculaExpressaoMatematica\CalculaExpressaoMatematica\obj\Debug\net7.0\CalculaExpressaoMatematica.genruntimeconfig.cache
+C:\Users\Kevin\source\repos\CalculaExpressaoMatematica\CalculaExpressaoMatematica\obj\Debug\net7.0\ref\CalculaExpressaoMatematica.dll
